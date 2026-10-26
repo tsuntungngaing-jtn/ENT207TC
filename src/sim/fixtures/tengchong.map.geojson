@@ -49,6 +49,29 @@
       "type": "Feature",
       "properties": { "kind": "competitor", "id": "comp-d", "name": "Bamboo Retreat" },
       "geometry": { "type": "Point", "coordinates": [98.495, 25.015] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "heat", "heat": 0.85, "name": "Corridor A" },
+      "geometry": { "type": "Point", "coordinates": [98.488, 25.02] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "heat", "heat": 0.55, "name": "Corridor B" },
+      "geometry": { "type": "Point", "coordinates": [98.498, 25.028] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "heat", "heat": 0.7, "name": "Corridor C" },
+      "geometry": { "type": "Point", "coordinates": [98.482, 25.03] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "heat", "heat": 0.4, "name": "Corridor D" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[98.49, 25.012], [98.5, 25.012], [98.5, 25.018], [98.49, 25.018], [98.49, 25.012]]]
+      }
     }
   ]
 }

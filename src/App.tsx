@@ -5,6 +5,9 @@ import { FeedbackPage } from './pages/FeedbackPage'
 import { KnowledgePage } from './pages/KnowledgePage'
 import { OtaPage } from './pages/OtaPage'
 import { ResearchPage } from './pages/ResearchPage'
+import { SimDailyPage } from './pages/SimDailyPage'
+import { SimDispatchPage } from './pages/SimDispatchPage'
+import { SimSandboxPage } from './pages/SimSandboxPage'
 import { StrategyPage } from './pages/StrategyPage'
 import { WeakSeasonPage } from './pages/WeakSeasonPage'
 
@@ -13,6 +16,9 @@ export default function App() {
     <Routes>
       <Route element={<AppShell />}>
         <Route index element={<DashboardPage />} />
+        <Route path="sim" element={<SimSandboxPage />} />
+        <Route path="dispatch" element={<SimDispatchPage />} />
+        <Route path="daily" element={<SimDailyPage />} />
         <Route path="weak-season" element={<WeakSeasonPage />} />
         <Route path="research" element={<ResearchPage />} />
         <Route path="strategy" element={<StrategyPage />} />
