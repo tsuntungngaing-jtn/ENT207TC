@@ -24,6 +24,7 @@ const DRAFT_DIRTY_NOTICE =
 interface SimContextValue {
   state: SimState
   draftPricing: CommittedPricing
+  draftDirty: boolean
   notice: string | null
   setAssumptions: (partial: Partial<SimAssumptions>) => void
   setDraftPricing: (partial: Partial<CommittedPricing>) => void
@@ -69,6 +70,8 @@ export function SimProvider({ children }: { children: ReactNode }) {
   const [draftPricing, setDraftPricingState] = useState<CommittedPricing>(boot.draft)
   const [notice, setNotice] = useState<string | null>(null)
 
+  const draftDirty = !pricingEqual(draftPricing, state.committed)
+
   const refreshPreview = useCallback(
     (next: SimState, pricing: CommittedPricing): SimState => {
       const dayIndex = Math.min(next.dayCursor, next.fixtures.calendar.length - 1)
@@ -89,22 +92,15 @@ export function SimProvider({ children }: { children: ReactNode }) {
     (partial: Partial<SimAssumptions>) => {
       setState((prev) => {
         const next = { ...prev, assumptions: { ...prev.assumptions, ...partial } }
-        return refreshPreview(next, draftPricing)
-      })
-    },
-    [draftPricing, refreshPreview],
-  )
-
-  const setDraftPricing = useCallback(
-    (partial: Partial<CommittedPricing>) => {
-      setDraftPricingState((prev) => {
-        const next = { ...prev, ...partial }
-        setState((s) => refreshPreview(s, next))
-        return next
+        return refreshPreview(next, next.committed)
       })
     },
     [refreshPreview],
   )
+
+  const setDraftPricing = useCallback((partial: Partial<CommittedPricing>) => {
+    setDraftPricingState((prev) => ({ ...prev, ...partial }))
+  }, [])
 
   const approveDraft = useCallback(() => {
     setState((prev) => {
@@ -147,24 +143,21 @@ export function SimProvider({ children }: { children: ReactNode }) {
   const enqueuePricingHint = useCallback(
     (hint: { source: string; discountPct: number }) => {
       void hint.source
-      setDraftPricingState((prev) => {
-        const next = {
-          ...prev,
-          globalDiscountPct: hint.discountPct,
-          weekdayPackage: true,
-        }
-        setState((s) => refreshPreview(s, next))
-        return next
-      })
+      setDraftPricingState((prev) => ({
+        ...prev,
+        globalDiscountPct: hint.discountPct,
+        weekdayPackage: true,
+      }))
       setNotice('Queued in Dispatch')
     },
-    [refreshPreview],
+    [],
   )
 
   const value = useMemo<SimContextValue>(
     () => ({
       state,
       draftPricing,
+      draftDirty,
       notice,
       setAssumptions,
       setDraftPricing,
@@ -178,6 +171,7 @@ export function SimProvider({ children }: { children: ReactNode }) {
     [
       state,
       draftPricing,
+      draftDirty,
       notice,
       setAssumptions,
       setDraftPricing,

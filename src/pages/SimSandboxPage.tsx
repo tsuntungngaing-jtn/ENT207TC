@@ -27,7 +27,8 @@ function seasonTag(factors: {
 }
 
 export function SimSandboxPage() {
-  const { state, setAssumptions, advanceDays, resetScenario, notice, clearNotice } = useSim()
+  const { state, draftDirty, setAssumptions, advanceDays, resetScenario, notice, clearNotice } =
+    useSim()
   const [showHeat, setShowHeat] = useState(true)
   const [showCompetitors, setShowCompetitors] = useState(true)
   const [showOd, setShowOd] = useState(false)
@@ -75,7 +76,14 @@ export function SimSandboxPage() {
 
           <div className="flex flex-wrap items-center justify-between gap-3">
             <div>
-              <p className="text-xs font-bold uppercase tracking-[0.16em] text-teal-600">Live preview</p>
+              <p className="text-xs font-bold uppercase tracking-[0.16em] text-teal-600">
+                Live preview
+                {draftDirty ? (
+                  <span className="ml-2 rounded-full bg-amber-100 px-2 py-0.5 text-[10px] font-semibold normal-case tracking-normal text-amber-800">
+                    Draft dirty
+                  </span>
+                ) : null}
+              </p>
               <p className="mt-1 text-sm text-slate-600">
                 Day {state.dayCursor}
                 {day ? ` · ${day.label}` : ''} · <span className="font-medium text-navy-900">{tag}</span>
