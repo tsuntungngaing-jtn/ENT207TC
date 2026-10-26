@@ -60,6 +60,15 @@ export function StrategyPage() {
             <p className="mt-3 text-xs text-slate-500">
               The system keeps humans in control — no OTA price change executes without approval.
             </p>
+            {primaryApproval === 'approved' ? (
+              <p
+                role="status"
+                className="mt-3 rounded-xl border border-teal-200 bg-teal-50 px-3 py-2 text-sm text-teal-900"
+              >
+                Queued in Dispatch — draft shows 8% discount + weekday package; Approve there to
+                commit.
+              </p>
+            ) : null}
           </Panel>
 
           <div>

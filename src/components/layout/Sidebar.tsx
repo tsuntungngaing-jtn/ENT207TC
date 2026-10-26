@@ -3,15 +3,24 @@ import {
   Activity,
   BookOpen,
   BrainCircuit,
+  CalendarDays,
   ChartColumnIncreasing,
   CloudSun,
   LayoutDashboard,
   LineChart,
+  Map,
   Radio,
   Sparkles,
+  Truck,
 } from 'lucide-react'
 
-const nav = [
+const simNav = [
+  { to: '/sim', label: 'Sandbox', icon: Map },
+  { to: '/dispatch', label: 'Dispatch', icon: Truck },
+  { to: '/daily', label: 'Daily', icon: CalendarDays },
+]
+
+const opsNav = [
   { to: '/', label: 'Dashboard', icon: LayoutDashboard },
   { to: '/weak-season', label: 'Weak Season Analysis', icon: ChartColumnIncreasing },
   { to: '/research', label: 'Research Agent', icon: BrainCircuit },
@@ -20,6 +29,42 @@ const nav = [
   { to: '/knowledge', label: 'Knowledge Base', icon: BookOpen },
   { to: '/feedback', label: 'Performance Feedback', icon: LineChart },
 ]
+
+function NavItem({
+  to,
+  label,
+  icon: Icon,
+  end,
+}: {
+  to: string
+  label: string
+  icon: typeof LayoutDashboard
+  end?: boolean
+}) {
+  return (
+    <NavLink
+      to={to}
+      end={end}
+      className={({ isActive }) =>
+        [
+          'group flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium transition-all',
+          isActive
+            ? 'bg-white/10 text-white shadow-sm shadow-black/20'
+            : 'text-slate-300 hover:bg-white/5 hover:text-white',
+        ].join(' ')
+      }
+    >
+      {({ isActive }) => (
+        <>
+          <Icon
+            className={`h-4 w-4 ${isActive ? 'text-teal-400' : 'text-slate-400 group-hover:text-teal-400'}`}
+          />
+          <span>{label}</span>
+        </>
+      )}
+    </NavLink>
+  )
+}
 
 export function Sidebar() {
   return (
@@ -31,36 +76,38 @@ export function Sidebar() {
         <div>
           <div className="text-lg font-bold tracking-tight text-white">FuxiPulse</div>
           <div className="text-[11px] font-medium uppercase tracking-[0.14em] text-teal-400/90">
-            AI Operations
+            Ops Simulator
           </div>
         </div>
       </div>
 
-      <nav className="flex flex-1 flex-col gap-1 px-3 pb-4">
-        {nav.map(({ to, label, icon: Icon }) => (
-          <NavLink
-            key={to}
-            to={to}
-            end={to === '/'}
-            className={({ isActive }) =>
-              [
-                'group flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium transition-all',
-                isActive
-                  ? 'bg-white/10 text-white shadow-sm shadow-black/20'
-                  : 'text-slate-300 hover:bg-white/5 hover:text-white',
-              ].join(' ')
-            }
-          >
-            {({ isActive }) => (
-              <>
-                <Icon
-                  className={`h-4 w-4 ${isActive ? 'text-teal-400' : 'text-slate-400 group-hover:text-teal-400'}`}
-                />
-                <span>{label}</span>
-              </>
-            )}
-          </NavLink>
-        ))}
+      <nav className="flex flex-1 flex-col gap-4 overflow-y-auto px-3 pb-4">
+        <div>
+          <div className="mb-1.5 flex items-center gap-2 px-3">
+            <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-slate-500">
+              Simulator
+            </span>
+            <span className="rounded bg-teal-500/20 px-1.5 py-0.5 text-[9px] font-bold uppercase tracking-wide text-teal-300 ring-1 ring-teal-400/30">
+              Sim
+            </span>
+          </div>
+          <div className="flex flex-col gap-1">
+            {simNav.map((item) => (
+              <NavItem key={item.to} {...item} />
+            ))}
+          </div>
+        </div>
+
+        <div>
+          <div className="mb-1.5 px-3 text-[10px] font-bold uppercase tracking-[0.16em] text-slate-500">
+            Operations
+          </div>
+          <div className="flex flex-col gap-1">
+            {opsNav.map((item) => (
+              <NavItem key={item.to} {...item} end={item.to === '/'} />
+            ))}
+          </div>
+        </div>
       </nav>
 
       <div className="mx-3 mb-4 rounded-2xl bg-navy-800/80 p-4 ring-1 ring-white/10">

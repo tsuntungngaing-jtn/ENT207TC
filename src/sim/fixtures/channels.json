@@ -1,0 +1,5 @@
+[
+  { "id": "ctrip", "name": "Ctrip", "weight": 0.45 },
+  { "id": "meituan", "name": "Meituan", "weight": 0.3 },
+  { "id": "direct", "name": "Direct", "weight": 0.25 }
+]

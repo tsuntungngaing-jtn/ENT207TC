@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Downtown Tengchong", "kind": "region" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[98.47, 25.01], [98.51, 25.01], [98.51, 25.04], [98.47, 25.04], [98.47, 25.01]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hot Spring District", "kind": "region" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[98.475, 25.005], [98.505, 25.005], [98.505, 25.02], [98.475, 25.02], [98.475, 25.005]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Volcano Park Area", "kind": "region" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[98.49, 25.025], [98.515, 25.025], [98.515, 25.04], [98.49, 25.04], [98.49, 25.025]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "property", "id": "cloud-mist", "name": "Cloud Mist Homestay" },
+      "geometry": { "type": "Point", "coordinates": [98.492, 25.022] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "competitor", "id": "comp-a", "name": "Hot Spring Lodge" },
+      "geometry": { "type": "Point", "coordinates": [98.485, 25.018] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "competitor", "id": "comp-b", "name": "Volcano View Inn" },
+      "geometry": { "type": "Point", "coordinates": [98.502, 25.025] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "competitor", "id": "comp-c", "name": "Ginkgo Courtyard" },
+      "geometry": { "type": "Point", "coordinates": [98.478, 25.032] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "competitor", "id": "comp-d", "name": "Bamboo Retreat" },
+      "geometry": { "type": "Point", "coordinates": [98.495, 25.015] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "heat", "heat": 0.85, "name": "Corridor A" },
+      "geometry": { "type": "Point", "coordinates": [98.488, 25.02] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "heat", "heat": 0.55, "name": "Corridor B" },
+      "geometry": { "type": "Point", "coordinates": [98.498, 25.028] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "heat", "heat": 0.7, "name": "Corridor C" },
+      "geometry": { "type": "Point", "coordinates": [98.482, 25.03] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kind": "heat", "heat": 0.4, "name": "Corridor D" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[98.49, 25.012], [98.5, 25.012], [98.5, 25.018], [98.49, 25.018], [98.49, 25.012]]]
+      }
+    }
+  ]
+}

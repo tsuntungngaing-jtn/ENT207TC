@@ -1,0 +1,6 @@
+[
+  { "id": "comp-a", "name": "Hot Spring Lodge", "lng": 98.485, "lat": 25.018, "weekdayAdr": 320, "weekendAdr": 380 },
+  { "id": "comp-b", "name": "Volcano View Inn", "lng": 98.502, "lat": 25.025, "weekdayAdr": 280, "weekendAdr": 350 },
+  { "id": "comp-c", "name": "Ginkgo Courtyard", "lng": 98.478, "lat": 25.032, "weekdayAdr": 360, "weekendAdr": 420 },
+  { "id": "comp-d", "name": "Bamboo Retreat", "lng": 98.495, "lat": 25.015, "weekdayAdr": 310, "weekendAdr": 390 }
+]

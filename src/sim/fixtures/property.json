@@ -1,0 +1,12 @@
+{
+  "name": "Cloud Mist Homestay",
+  "location": "Tengchong, Yunnan",
+  "rooms": 12,
+  "personsPerRoom": 2.1,
+  "baselineLos": 1.8,
+  "roomTypes": [
+    { "id": "std", "name": "Standard", "count": 6, "baseAdr": 298 },
+    { "id": "dlx", "name": "Deluxe", "count": 4, "baseAdr": 368 },
+    { "id": "ste", "name": "Suite", "count": 2, "baseAdr": 488 }
+  ]
+}
