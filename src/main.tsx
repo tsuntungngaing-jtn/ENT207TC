@@ -1,16 +1,19 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { BrowserRouter } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom'
 import App from './App'
 import { AppStateProvider } from './context/AppState'
+import { SimProvider } from './sim/SimContext'
 import './index.css'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <AppStateProvider>
-        <App />
+        <SimProvider>
+          <App />
+        </SimProvider>
       </AppStateProvider>
-    </BrowserRouter>
+    </HashRouter>
   </StrictMode>,
 )
