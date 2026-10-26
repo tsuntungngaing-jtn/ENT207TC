@@ -148,10 +148,15 @@ export function SimProvider({ children }: { children: ReactNode }) {
     (hint: { source: string; discountPct: number }) => {
       void hint.source
       setDraftPricingState((prev) => {
-        const next = { ...prev, globalDiscountPct: hint.discountPct }
+        const next = {
+          ...prev,
+          globalDiscountPct: hint.discountPct,
+          weekdayPackage: true,
+        }
         setState((s) => refreshPreview(s, next))
         return next
       })
+      setNotice('Queued in Dispatch')
     },
     [refreshPreview],
   )
