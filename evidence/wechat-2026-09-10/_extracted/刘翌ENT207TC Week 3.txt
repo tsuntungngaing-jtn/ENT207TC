@@ -1,0 +1,11 @@
+ENT207TC Week 3
+Individual Weekly Record
+Student: Yi.Liu
+Work summary
+This week I received project‑direction suggestions from the tutor meeting. Based on tutor feedback, I put forward a personal concept: to build an AI‑agent operating system that connects to existing OTA platforms, rather than developing a brand‑new standalone homestay OTA website. This idea has not been finalised by the group yet. I sorted out initial system functions including automatic OTA listing, OTA daily‑operation automation and OTA API docking to realise dynamic pricing, room‑status synchronization and intelligent guest reply. I also resolved my previous Figma‑account access issue. Then I studied the complete Visily‑Figma‑Pixso workflow to prepare for building the interactive Pixso prototype for Checkpoint 1 in Week 4. My prototype preparation work is still ongoing.
+Challenges
+First, the feasibility of third‑party OTA open‑API access remains unclear, and it is uncertain whether we can obtain homestay historical sample data for project support. Second, functional modules are numerous, and my proposed project concept still needs group discussion and confirmation, making it hard to filter and prioritize core features suitable for the Week 4 prototype demonstration. Third, translating the complex AI dynamic‑pricing business logic into simple, prototype‑friendly page flows is challenging.
+Help Sought and Evidence
+Course and tutor guidance. I hope the tutor can give advice on my proposed AI‑agent concept and selecting core prototype features. I also need suggestions for alternative solutions if OTA official‑API access cannot be achieved. I would like to enquire whether partial homestay historical sample data can be provided.
+Outcome of the Help
+The Figma‑account problem is solved; I can follow the standard Visily‑Figma‑Pixso workflow. Once I receive tutor advice, I will bring the concept for group discussion, adjust feature scope accordingly and push forward the Pixso prototype development.

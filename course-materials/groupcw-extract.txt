@@ -1,0 +1,638 @@
+===== PAGE 1 =====
+XJTLU Entrepreneur College (Taicang) 
+Entrepreneurship & Enterprise Hub 
+ENT207TC 
+Digital Startup Lab 
+GROUP ASSESSMENT BRIEF 
+Semester 1 | Academic Year 2026-2027 
+Module Leaders: Dr. Bogdan Marculescu & Dr. Stefan Seedorf 
+Module Title 
+Digital Startup Lab 
+Module Code 
+ENT207TC 
+Module Credits 
+5 
+Module Leaders 
+Dr. Bogdan Marculescu & Dr. Stefan Seedorf 
+Assessment Type 
+Group Coursework (100%) 
+Submission Deadlines 
+Component 1 (Weekly Process): Ongoing — final upload before end of Week 10 
+Component 2 (Final Deliverables): Draft 1 — Week 4; Draft 2 — Week 9; 
+compiled package before end of Week 10 
+Component 3 (Demo Day): Week 10 (date TBC) 
+Component 4 (Journey Reflection): Before end of Week 10 
+Method of Submission 
+Demo Day (live) + Electronic via LMO / Turnitin 
+Late Submission Policy 
+5% deduction per day (up to 5 days). Beyond 5 days = non-submission. 
+Learning Outcomes Tested 
+A, B, C, D, E (see Module Handbook for full descriptions) 
+1. ASSESSMENT STRUCTURE 
+Grade Composition 
+The group grade is composed of four components, in line with the ENT207TC Module Handbook: 
+Component 
+Weight 
+Type 
+Description 
+Component 1: Weekly 
+Process 
+40% 
+Group 
+Weekly milestone deliverables, Kanban maintenance, 
+documented progress. 
+Component 2: Final 
+Deliverables 
+30% 
+Group 
+Drafts + Checkpoints + Digital Prototype Report + 
+Promotion Report + User Testing Report. 
+Component 3: Demo 
+Day 
+20% 
+Group 
+Live Demo Day performance + professionally produced 
+video with subtitles. 
+Component 4: Journey 
+Reflection 
+10% 
+Group 
+End-of-semester reflective report on process, support, 
+tools, and recommendations. 
+TOTAL 
+100% 
+ 
+ 
+Individual Marks 
+All members of a group ordinarily receive the same mark, based on the group grade above. There is no peer-review 
+formula this year. Where accumulated process evidence such as Kanban history, weekly milestone submissions, TA 
+check-in notes, and Mentor observations clearly show that a student's contribution was substantially different from 
+their teammates', Module Leaders and EEH Mentors may adjust that student's individual mark relative to the group 
+mark. Any such adjustment is capped at a maximum of 10 percentage points, and is decided by Module Leaders 
+and/or EEH Mentors based on process evidence, as per Section 14 of the Module Handbook ("Final Review"). 
+
+===== PAGE 2 =====
+Students are strongly encouraged to keep their own evidence of contribution (Kanban activity, communications, 
+milestone submissions) throughout the semester in case questions of individual contribution arise. 
+2. PROJECT SELECTION & GROUP FORMATION 
+Finding Your Project 
+In Weeks 1–2, each group selects a real-world problem to solve with a digital solution that can realistically be built 
+within the semester. While most teams are expected to build apps, other digital solutions are acceptable if they 
+address an industry-relevant challenge and demonstrate technical depth (e.g., intelligent agents, interactive 
+dashboards, AI tools, or advanced web applications). Static or overly simple solutions do not qualify. 
+Group Formation 
+Groups are formed with approximately seven members, based on project interest. Project fields may include (but are 
+not limited to): AFCT, AIAC, IME, IOT, IRE, IFB, CHIPS, EEH, and other emerging areas. 
+Validation Process 
+1. Brainstorming — generate multiple problem ideas and propose digital solutions. 
+2. Peer Feedback — present ideas to another group using the Green / Yellow / Red system. 
+3. Faculty Approval — EEH Mentors or panel review final ideas. Rejected ideas must pivot and resubmit. 
+GREEN 
+Clear problem + realistic and buildable solution. Proceeds to development. 
+YELLOW 
+Valid problem but solution needs more clarity or scoping. Revise and resubmit. 
+RED 
+Problem unclear or solution unrealistic. Full pivot required. 
+Peer Feedback Form — Problem/Solution Evaluation 
+Group Giving Feedback: 
+ 
+Group Receiving Feedback: 
+ 
+Problem/Solution Being Evaluated: 
+ 
+Vote (circle one): 
+GREEN | YELLOW | RED 
+Reasoning (1–2 sentences): 
+ 
+3. COMPONENT DETAILS 
+NOTE: Each team is expected to engage with at least one External Mentor during the semester (XEC faculty, 
+industry practitioner, alumnus, or domain expert). Document this using the External Mentor Feedback Form 
+(Form 3 of the Module Handbook) by end of Week 9 — at least one submission per semester is required. This is 
+scored once (not weekly) under the "External Mentor" criterion in the Weekly Process rubric below. 
+NOTE: "Features" referenced throughout this brief (e.g., "three core features") should follow the guidance in 
+Appendix A: Acceptable Features for Projects. Login-only functionality, static/landing pages, generic contact 
+forms, and visual polish without underlying logic do not count as features. 
+Component 1 (40%): Weekly Process 
+The project is completed through weekly milestones. Each week builds toward the group's overall deliverables, with 
+documented evidence of progress. Teams should maintain an active Kanban board throughout the semester — this is 
+verified as evidence of how the team organises and executes work. 
+To establish a transparent individual contribution trail, students are strongly encouraged to use the module's digital 
+workspace portal, where card movements and digital proofs are aggregated automatically. Students choosing the 
+manual route must carefully document their own weekly individual contributions. Each week's Form 1 log also 
+includes a short individual reflection field for every team member. 
+
+===== PAGE 3 =====
+Weekly Process Rubric 
+Criteria 
+4 – Excellent 
+3 – Good 
+2 – Satisfactory 1 – Needs 
+Improvement 
+0 – 
+Unacceptable 
+Weight 
+Progress 
+Significant 
+progress, new 
+features built, 
+clear learning 
+Good progress, 
+meaningful 
+work done 
+Some progress; 
+partial 
+completion 
+Minimal 
+progress, 
+surface-level 
+work 
+No visible 
+progress 
+Equal 
+Evidence 
+Rich, authentic 
+evidence and 
+user 
+engagement 
+Clear evidence 
+with real 
+validation 
+Basic or 
+internal-only 
+validation 
+Weak or generic 
+with limited 
+validation 
+No real 
+evidence 
+Equal 
+Clarity 
+Polished, 
+coherent, and 
+clear submission 
+Generally clear 
+and logically 
+presented 
+Average clarity, 
+some gaps 
+Unclear 
+thinking or 
+confusing 
+delivery 
+Very poor 
+clarity 
+Equal 
+Team & 
+Resilience 
+Highly reliable, 
+communicates 
+openly, supports 
+teammates, 
+shows resilience 
+Generally 
+reliable, 
+communicates 
+well 
+Meets basics, 
+inconsistent 
+follow-through 
+Often late or 
+non-responsive 
+Disruptive or 
+avoids tasks 
+Equal 
+External 
+Mentor* 
+Engagement 
+evidenced early, 
+clearly 
+documented, 
+and integrated 
+into work 
+Engagement 
+evidenced and 
+referenced, 
+partly used 
+Engagement 
+evidenced but 
+only shortly 
+before the Week 
+9 deadline, 
+limited 
+integration 
+Weak or indirect 
+evidence of 
+engagement by 
+Week 9 
+No mentor 
+interaction 
+evidenced by 
+Week 9 
+Equal 
+Total possible: 20 points per week (5 criteria x 4 = 20). 
+*Unlike the other four criteria, External Mentor is assessed cumulatively across the semester, not scored fresh each week — the 
+requirement is one documented engagement (Form 3) by end of Week 9. 
+Component 2 (30%): Final Deliverables 
+The Final Deliverables are a curated record of your team's project journey from idea to launch-ready product: three 
+Checkpoint Reports plus three standalone reports (Digital Prototype, Promotion, User Testing), submitted at the end 
+of the semester. 
+Draft Submissions 
+Two formal drafts of the Final Deliverables must be submitted via the milestone platform (or sent directly to your 
+assigned Mentor): 
+• Draft 1 (Week 4): digital prototype report — the problem, solution concept, and chosen features. 
+• Draft 2 (Week 9): tech stack choice, promotion report, and user testing report. 
+Submitting these drafts on time matters — they form the evidence trail that supports your team's final grade. 
+Final Deliverables Contents 
+Document 
+Due 
+Contents 
+Checkpoint 1 Report 
+End of Week 3 
+Problem choice and validation evidence, solution concept, digital 
+prototype (chosen features). 
+Checkpoint 2 Report 
+End of Week 7 
+Tech stack rationale, working app with 3 features, Kanban 
+evidence, building reflection. 
+Checkpoint 3 Report 
+End of Week 9 
+Promotion evidence (channels, reach, engagement), user testing 
+data (10+ testers), bug fixes implemented, launch readiness self-
+assessment. 
+
+===== PAGE 4 =====
+Document 
+Due 
+Contents 
+Digital Prototype Report 
+End of Week 10 
+Final product documentation: architecture overview, feature set, 
+tech stack, access instructions for assessors, known limitations. 
+Promotion Report 
+End of Week 10 
+Channels used (with dates), materials deployed (video link, 
+landing page), reach and engagement metrics, testers onboarded, 
+what worked / what did not, timestamped evidence screenshots. 
+User Testing Report 
+End of Week 10 
+Structured report on 10+ real users: testing methodology, key 
+findings, user quotes or data, changes implemented based on 
+feedback. 
+Final Deliverables Rubric 
+Excellent (27–30) 
+Good (21–26) 
+Satisfactory (15–
+20) 
+Needs 
+Improvement (9–
+14) 
+Weak (0–8) 
+All six documents 
+present, 
+comprehensive, 
+well-written, with 
+rich evidence at 
+each checkpoint. 
+Demonstrates clear 
+learning 
+progression. 
+All documents 
+present, good depth, 
+evidence is clear 
+and consistent. 
+Most documents 
+present; some lack 
+depth or evidence 
+quality. 
+Incomplete Final 
+Deliverables or 
+major gaps in 
+evidence. 
+Final Deliverables 
+largely missing or 
+do not reflect actual 
+project journey. 
+Component 3 (20%): Demo Day 
+Demo Day is the culmination of your startup journey. Each team delivers a live presentation and Q&A, showcasing 
+their working application to an audience of peers, mentors, and invited guests. 
+Demo Day Deliverables 
+• Live demonstration of the app with real functionality. 
+• Presentation slides (PPTX or PDF) — clear, narrative-driven, audience-ready. 
+• App access for assessors (published link / test account / APK / repository with README). 
+• Demo Day Live Recording — the official recording captured during the event (the team is responsible to record). 
+Submitted with your Component 3 package. 
+• Professional Video Submission — a separately produced video by your team, edited with subtitles, professional 
+quality, representing your best public-facing pitch. Upload as MP4. 
+Minimum Requirements for Digital Solutions 
+To qualify for Demo Day, each team's solution must include: 
+• A user-facing interface (app, dashboard, or web tool). 
+• User input and interaction (form, voice, chat, or data upload). 
+• At least five screens with logical, structured navigation. 
+• User authentication (login functionality). 
+• Three core features or functions (see Appendix A for what counts as a feature). 
+• Support for real user testing (minimum 10 users). 
+• A clearly defined use case and demonstrable technical value. 
+• Your demonstration of your working digital prototype must satisfy the interactive simulation requirement. As 
+part of the live demonstration, walk through a realistic user scenario simulation within your app — the inputs, the 
+interaction, the resulting output — and explain how that insight would inform a real product, market, or 
+operational decision for your venture. 
+Demo Day Rubric 
+
+===== PAGE 5 =====
+# 
+Criteria 
+Excellent (12–
+15) 
+Good (9–11) 
+Satisfactory (6–
+8) 
+Needs 
+Improvement 
+(3–5) 
+Weak (0–2) 
+1 
+App Concept & 
+Problem Fit 
+Clearly defined, 
+future-relevant 
+problem; 
+innovative and 
+feasible solution. 
+Clear problem 
+and realistic 
+solution; 
+moderate 
+innovation. 
+Problem and 
+solution 
+somewhat 
+aligned; idea is 
+generic. 
+Problem unclear 
+or poorly defined. 
+Weak or copycat 
+solution. 
+2 
+Functionality & 
+Problem-Solving 
+Strong 
+functionality; 
+features well 
+integrated; clear 
+system flow and 
+data use; real-
+world 
+applicability. 
+Functional; most 
+features work; 
+evidence of user 
+feedback or 
+iteration. 
+Technically 
+functional but 
+limited; some 
+parts basic or 
+surface-level. 
+Limited 
+functionality or 
+broken elements; 
+problem-solving 
+vague. 
+Not functional or 
+fails to show 
+meaningful 
+problem-solving. 
+3 
+User Engagement 
+& Delivery 
+10+ real users; 
+clear iteration; 
+polished pitch; 
+confident 
+delivery; 
+professional 
+video with 
+subtitles. Handles 
+live issues 
+calmly. 
+5–10 users; 
+visible changes 
+from feedback; 
+well-structured 
+presentation. 
+Promo pack 
+complete. 
+Fewer than 5 
+users; some 
+cosmetic 
+changes; 
+presentation okay 
+but lacks polish. 
+Minimal user 
+feedback; 
+iteration unclear; 
+presentation 
+incomplete. 
+Struggled under 
+pressure. 
+No evidence of 
+users, changes, or 
+planning. Video 
+missing or 
+unwatchable. 
+4 
+Navigating 
+Organisational 
+Complexities 
+Anticipates 
+barriers; strategic 
+communication; 
+shows initiative 
+and diplomacy. 
+Understands 
+structures; adjusts 
+approach; handles 
+setbacks 
+constructively. 
+Recognises basic 
+processes but 
+struggles with 
+adapting strategy. 
+Limited 
+awareness of 
+organisational 
+systems or 
+stakeholder roles. 
+Fails to adapt to 
+challenges; 
+misunderstandings 
+or missed 
+opportunities. 
+Component 4 (10%): Journey Reflection 
+We want honest, specific reflection about the format, support received, tools used, and the learning experience — 
+plus ideas for improvement. Minimum 900 meaningful words total. One upload per group at the end of the semester. 
+No references required. This reflection should draw on and build from each member's individual weekly reflections 
+submitted through the semester. 
+Please address the following prompts (2–4 sentences each): 
+• Format & flow: What worked or did not in the startup studio model? 
+• EEH support: What support from EEH (Mentors, workspace, feedback) helped? What was missing? 
+• School support: What support from your home school helped? What was missing? 
+• Mentor support: One concrete example where your EEH Mentor materially helped — or could have. 
+• TA support: Was the TA check-in process useful? What would have improved it? 
+• AI Agents: Did you use AI agents in your product or workflow? What value did they add, or not? 
+• Kanban: Did the Kanban board help your team's organization? What would you change? 
+• Learning environment: Did sessions feel safe, inclusive, and collaborative? One enabler and one blocker. 
+• Barriers & enablers: Top two blockers and how you got past them; top two supports that mattered. 
+• Two low-effort fixes we can implement for future students.  
+Journey Reflection Rubric 
+
+===== PAGE 6 =====
+Excellent (17–20) 
+Good (13–16) 
+Satisfactory (9–12) 
+Needs 
+Improvement (5–8) 
+Weak (0–4) 
+Insightful, specific, 
+and deeply 
+reflective with clear 
+writing. 
+Good awareness and 
+detail, coherent 
+reflection. 
+General summary 
+with limited insight. 
+Surface-level, 
+vague, or messy. 
+No meaningful 
+reflection or very 
+unclear writing. 
+4. SUBMISSION REQUIREMENTS 
+What to Upload and How 
+Component 
+Upload Instructions 
+Component 1: Weekly 
+Process 
+Submit weekly via the milestone tracking platform. Final consolidated upload (all 
+weeks) due by end of Week 10. 
+Component 2: Final 
+Deliverables 
+Draft 1 (Week 4) and Draft 2 (Week 9) submitted via the milestone platform or to 
+your Mentor. One ZIP containing all six Final Deliverables documents (3 Checkpoint 
+Reports + Digital Prototype Report + Promotion Report + User Testing Report) in 
+PDF or DOCX; Checkpoint Reports may be submitted incrementally at each 
+checkpoint. Final compiled package due end of Week 10. 
+Component 3: Demo 
+Day 
+One ZIP containing: (1) Presentation slides, (2) App access instructions, (3) Live 
+recording of Demo Day (provided by module team), (4) Professional video (MP4 with 
+subtitles). Upload by Demo Day deadline. 
+Component 4: Journey 
+Reflection 
+Single PDF/DOCX (900+ words). Upload by end of Week 10. 
+File naming convention: GroupNumber_ComponentX_ComponentName_Date (e.g., 
+Group5_Component2_Checkpoint2_2026.pdf) 
+All uploads go through the designated assignment submission link on Learning Mall Online. Verify that your upload 
+is successful and that files are viewable. Late or inaccessible files are treated as non-submission. 
+Only the group leader uploads the files. All group members are responsible for ensuring the upload is complete. 
+Referencing 
+Use APA referencing where applicable. Include in-text citations and a reference list at the end of any report that 
+draws on external sources. No reference list is required for the Journey Reflection. For APA guidance: 
+https://libguides.lib.xjtlu.edu.cn/xjtlureferencing 
+5. PERFORMANCE DESCRIPTORS 
+Grade 
+Points 
+Class 
+Descriptors 
+A 
+81+ 
+First 
+Outstanding work at the upper limit of performance. Mastery of 
+advanced techniques beyond what was taught. Synthesis of ideas 
+from across the subject. Evidence of outstanding individual 
+contribution in group work. 
+B 
+70–80 
+First 
+Excellent range and depth. Mastery of a wide range of methods. 
+Evidence of study and originality beyond what was taught. 
+Excellent individual contribution. 
+C 
+60–69 
+Upper Second 
+All learning outcomes attained. Good use of methods. Evidence 
+of comprehension and synthesis beyond taught content. 
+Productive individual contribution. 
+D 
+50–59 
+Lower Second 
+Some limitations but most objectives met. Evidence of study. 
+Adequate presentation. Positive individual contribution. 
+
+===== PAGE 7 =====
+Grade 
+Points 
+Class 
+Descriptors 
+E 
+40–49 
+Third 
+Limited attainment of outcomes. Basic methods demonstrated. 
+Insecure grasp of content. Poorly presented. 
+F 
+0–39 
+Fail 
+Minority of outcomes attained. Weak and incomplete grasp of 
+content. Incoherent presentation. 
+G 
+0 
+Fail 
+No significant assessable material, absent, or missing a must-
+pass component. 
+ 
+ 
+
+===== PAGE 8 =====
+APPENDIX A: ACCEPTABLE FEATURES FOR PROJECTS 
+The list below illustrates types of features that are acceptable and meaningful in ENT207TC (Module Handbook, 
+Section 21). These are here to inspire, not to restrict. What matters is that every feature directly helps solve a real 
+problem for your intended users. You are not building for practice — you are building to make a difference. 
+Navigation & Access 
+• Guest access with limited functionality 
+• Role-based access (admin, user, mentor, etc.) 
+• Structured user flows with access-specific content 
+User Interaction Features 
+• Customizable profile that influences app functionality 
+• Dynamic task or goal tracker with progress logic 
+• Smart calendar or reminder tied to user input or behavior 
+• Gamified progress indicators (badges, levels, streaks) 
+AI & Smart Features 
+• Chatbot trained on specific user needs or data 
+• AI-generated suggestions that adapt over time 
+• AI agents that perform tasks autonomously within your app 
+• Input analysis with personalized recommendations 
+• Auto-generated summaries or reflections from user content 
+Logic, Data & Feedback Systems 
+• User-facing database features (filter, sort, search) 
+• Real-time leaderboard or comparison system 
+• Analytics dashboard that visualizes trends 
+• Systems that evolve based on cumulative user activity 
+Advanced Features 
+• Integrations that add real functionality (AI, finance, weather, IoT) 
+• Secure and useful use of OpenAI, DeepSeek, Gemini, or similar models 
+• APIs offering content, evaluation, or communication support 
+• Webhooks or external automations supporting your use case 
+Features NOT Counted as Core Features 
+Feature 
+Reason 
+Login system only 
+Expected infrastructure, not a solution 
+Static content or landing page 
+No user input or interactivity 
+Contact form 
+Too generic unless purpose-specific 
+Basic calendar 
+Must be tied to user logic or insights 
+Visual polish without logic 
+Design without behavior does not count 
+ 

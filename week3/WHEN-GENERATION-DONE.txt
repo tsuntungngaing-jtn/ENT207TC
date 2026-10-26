@@ -1,0 +1,18 @@
+When Visily finishes generating — do this, then I take over
+===========================================================
+
+1. Open the new board (should appear under Boards; rename to FuxiPulse)
+2. Quick check: 7 screens roughly match Dashboard → Feedback
+3. Export:
+   - Top menu / share / ••• → Export / Download as .vis
+   - Prefer save to: E:\ENT207TC\week3\exports\FuxiPulse.vis
+   - Or Downloads — a watcher will auto-copy into week3\exports\
+
+4. Tell me "exported" OR just wait — I am monitoring exports + Downloads
+
+Next (I drive after .vis lands)
+-------------------------------
+Figma → Visily plugin → import .vis → clean → export .fig
+Pixso → import .fig → wire prototype links for Checkpoint 1
+
+Free plan note: only 2 newest boards editable — keep FuxiPulse as one of them.

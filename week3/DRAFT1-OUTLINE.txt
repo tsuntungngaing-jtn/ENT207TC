@@ -1,0 +1,36 @@
+ENT207TC · Draft 1 outline (keep short)
+=======================================
+
+01 · The problem
+----------------
+What: Homestay occupancy and revenue collapse in weak / shoulder season.
+Who: Independent and small-chain operators (demo: Cloud Mist Homestay, Tengchong).
+Why it matters: Booking pace falls early; without timely diagnosis and OTA action,
+losses compound across Ctrip / Meituan / Fliggy. Limited ops staff cannot monitor
+all signals manually.
+
+Research note (add 1–2 sources before submit):
+- Yunnan / Tengchong tourism seasonality or OTA booking-pace pressure
+- Small lodging revenue-management pain points in shoulder season
+
+02 · The solution
+-----------------
+App: FuxiPulse — AI decision-support for weak-season operations.
+How it solves it: Detect risk → forecast & diagnose → research root causes →
+propose strategies with human approval → push OTA actions → learn from outcomes.
+
+03 · The features
+-----------------
+1. Operations Dashboard — property pulse, risk score, agent pipeline status
+2. Weak Season Analysis — 14-day demand forecast + root-cause diagnosis
+3. Research Agent — sources, reasoning chain, findings
+4. Strategy Center — ranked recommendations; approve / reject (human-in-the-loop)
+5. OTA Operations — channel share, booking pace, listing rank, monitor actions
+6. Knowledge Base — pricing / product / distribution / demand playbooks
+7. Performance Feedback — results loop so agents improve next cycle
+
+Checkpoint 1 60-second pitch
+----------------------------
+1. Problem: Tengchong homestays bleed occupancy in shoulder season; owners react late.
+2. Product: FuxiPulse turns signals into an approve-then-act ops loop.
+3. Demo: Pixso click-through — Dashboard → Weak Season → Research → Strategy → OTA.

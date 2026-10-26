@@ -1,0 +1,31 @@
+ENT207TC Week 3 — Step 1 · Finalized idea (FuxiPulse)
+=====================================================
+
+1) The problem
+   Homestay owners in tourist destinations (e.g. Tengchong) face sharp
+   occupancy and revenue drops in the weak / shoulder season, but lack a
+   clear, timely way to see risk, diagnose causes, and act on OTA pricing
+   and promotions before losses compound.
+
+2) Who has the problem
+   Independent / small-chain homestay operators and property managers who
+   rely on OTAs, have limited revenue-ops staff, and decide under time
+   pressure during weak season.
+
+3) The app, and how it solves the problem
+   FuxiPulse — an AI operations decision-support dashboard.
+   It monitors property pulse + risk, forecasts weak-season demand,
+   runs a research agent for root causes, proposes strategies with
+   human approval, supports OTA actions, and closes the loop with
+   performance feedback / learning.
+
+4) Features (Checkpoint / Draft 1 list)
+   - Operations Dashboard — property pulse, risk score, agent pipeline
+   - Weak Season Analysis — 14-day forecast + root-cause diagnosis
+   - Research Agent — sources · reasoning · findings
+   - Strategy Center — recommendations + human approve / reject
+   - OTA Operations — channel / listing actions
+   - Knowledge Base — playbooks and context
+   - Performance Feedback — outcomes and learning loop
+
+Demo property context: Cloud Mist Homestay · Tengchong, Yunnan

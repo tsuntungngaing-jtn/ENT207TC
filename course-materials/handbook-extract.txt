@@ -1,0 +1,954 @@
+===== PAGE 1 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+Entrepreneurship and Enterprise Hub 
+ 
+MODULE HANDBOOK 
+ 
+ 
+ENT207TC 
+Digital Startup Lab 
+ 
+ 
+ 
+Module Leaders: 
+Dr. Bogdan Marculescu and Dr. Stefan Seedorf 
+ 
+ 
+ 
+ 
+ 
+Semester 1 | Academic Year 2026-2027 
+ 
+ 
+
+===== PAGE 2 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+SECTION A: BASIC INFORMATION 
+1. Welcome to the Digital Startup Lab 
+Welcome to ENT207TC Digital Startup Lab! This module is a hands-on, challenge-based journey 
+where you and your team will learn how to take an idea from concept to a working digital product, just 
+like a real-world startup team. 
+The Digital Startup Lab is intentionally designed as a co-learning environment. While the module 
+leaders will provide structure, guidance, and feedback, we will also explore new tools, technologies, 
+and startup challenges together. In fast-moving fields like digital entrepreneurship, knowing how to 
+learn, adapt, and experiment matters more than having all the answers. 
+One of your key resources is your EEH Mentor, a high-quality mentor here to help you think deeper, 
+connect to relevant expertise, and navigate the challenges of building a real product. Administrative 
+coordination and progress tracking is handled by Teaching Assistants (TAs), who will help ensure 
+your team stays on track week by week. 
+ 
+2. Key Module Information 
+Module Title 
+Digital Startup Lab 
+Module Code 
+ENT207TC 
+Originating Department 
+Entrepreneurship and Enterprise Hub 
+Module Level 
+2 (FHEQ level 5) 
+Module Credits 
+5 
+Pre-requisites 
+N/A 
+Shared Programs 
+BA Arts, Technology and Entertainment; BEng Data Science and 
+Big Data Technology; BEng Intelligent Manufacturing 
+Engineering; BEng Internet of Things Engineering; BEng 
+Intelligent Robotics Engineering; BSc Intelligent Supply Chain; 
+BEng Microelectronic Science and Engineering with 
+Contemporary Entrepreneurialism 
+ 
+3. Mode of Delivery and Hours 
+ 
+Lectures 
+Lab / 
+Practicals 
+Private Study 
+TOTAL 
+Hours / Semester 
+0 
+40 
+60 
+100 
+Delivery Pattern 
+ 
+4 x 10 (4 
+hrs/week x 10 
+weeks) 
+Self-directed 
+ 
+
+===== PAGE 3 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+4. Module Description 
+Aims and Fit of the Module 
+This module is designed to give students a comprehensive foundation in the modern startup 
+ecosystem. It aims to: 
+• 
+Provide an in-depth understanding of technological advancements relevant to digital 
+startups, including artificial intelligence, AI agents, no-code and low-code platforms, and 
+emerging technologies. 
+• 
+Equip students with essential skills to navigate the landscape of digital startups, integrating 
+technology-driven solutions while understanding ecosystem components, resources, and 
+support networks. 
+• 
+Cultivate emotional intelligence and resilience crucial for entrepreneurs, enabling students to 
+manage the complex challenges inherent in digital entrepreneurship. 
+• 
+Introduce students to structured product development through milestone-based learning, 
+Kanban-style workflow management, and iterative prototyping. 
+• 
+Develop the ability to use AI agents as intelligent tools to augment startup workflows and 
+product features. 
+ 
+5. Learning Outcomes 
+Code 
+Learning Outcome 
+A 
+Develop a comprehensive understanding of cutting-edge technologies pivotal in digital 
+startup ecosystems, discerning their application and significance within entrepreneurial 
+ventures. 
+B 
+Identify and analyze technological integration within startups, employing diverse 
+methodologies and tools that optimize technological resources. 
+C 
+Cultivate emotional intelligence and resilience, fostering the ability to navigate the 
+emotional highs and lows inherent in digital entrepreneurship. 
+D 
+Conceptualize and implement innovative solutions by integrating technologies including AI 
+agents and intelligent automation. 
+E 
+Attain proficiency in interactive simulations and digital tools, applying technological 
+insights to entrepreneurial challenges through real-world practice. 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 4 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+ 
+6. Assessment Overview 
+Seq. 
+Type 
+Method 
+LOs Assessed 
+Duration 
+% of Mark 
+001 
+CW 
+Group Project 
+A, B, C, D, E 
+N/A 
+100 
+ 
+The group project grade is composed of four components: 
+ 
+Component 
+Weight 
+Type 
+Notes 
+Weekly Process 
+40% 
+Group 
+Weekly deliverables and documented 
+progress 
+Final Deliverables 
+30% 
+Group 
+Drafts + Checkpoints + Digital 
+Prototype Report + Promotion Report 
++ User Testing Report 
+Demo Day 
+20% 
+Group 
+Live Demo Day performance + 
+professional video submission 
+Journey Reflection 
+10% 
+Group 
+End-of-semester reflective report on 
+learning and process 
+TOTAL 
+100% 
+ 
+ 
+ 
+Individual marks may differ from the group mark by up to 10 percentage points in exceptional cases; 
+see Section 14 (Final Review) 
+ 
+ 
+
+===== PAGE 5 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+7. Semester Structure and Phases 
+Phase 
+Weeks 
+Focus 
+Decision & Digital 
+Prototype 
+1 – 3 
+Team formation, problem framing, Kanban boards, UX 
+design, wireframes, digital prototypes. Checkpoint 1 at 
+end of Week 3. 
+Building 
+4 – 7 
+App development, feature integration, AI agents. 
+Checkpoint 2 at end of Week 7. 
+Promoting & 
+Testing 
+8 – 9 
+Promotion campaign, user testing, iteration. Checkpoint 3 
+at end of Week 9. 
+Demo Day 
+10 
+Final presentation, live demo 
+Final submission 
+11 
+Final submission 
+ 
+Three formal checkpoints serve as structured progress milestones and contribute to the Final 
+Deliverables component: 
+• 
+Checkpoint 1 — End of Week 3: Decision gate. Teams present their validated problem to their 
+Mentor, their solution concept, and the digital prototype. 
+• 
+Checkpoint 2 — End of Week 7: Building review: Teams demonstrate to their Mentor their 
+working app with at least three features. 
+• 
+Checkpoint 3 — End of Week 9: Demo readiness. Teams present to their Mentor their 
+promotion results, user testing data, and iterative fixes. 
+Students who repeatedly fail to participate in scheduled project activities, checkpoints or Demo Day 
+may not be able to demonstrate achievement of the intended learning outcomes and may therefore 
+receive reduced marks based on academic judgement. 
+8. Weekly Schedule 
+Week 
+Focus / Theme 
+LOs 
+Tools 
+Delivery 
+Hours 
+Deliverables 
+PHASE 1: DECISION & DIGITAL PROTOTYPE (Weeks 1–3) 
+1 
+Kickoff & Team 
+Formation 
+Team formation, 
+Spaghetti 
+Challenge, Vibe 
+Coding 101, AI 
+Challenge. 
+A B C 
+AI tools, 
+Kanban 
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+Mentors, Group 
+formation 
+4 hr 
+Group composition 
+and problem ideas 
+submitted via 
+weekly milestone 
+form 
+2 
+UX Design & 
+Wireframes 
+A B C 
+D 
+Visily, 
+Figma, 
+Pixso, 
+Kanban 
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+4 hr 
+Wireframes + 
+concept pitch 
+
+===== PAGE 6 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+board 
+tool 
+Mentors, Group 
+work 
+3 
+Figma MVP 
+Build 
+ 
+CHECKPOINT 1  
+A B C 
+D 
+Visily 
+Figma, 
+Pixso, 
+Kanban  
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+Mentors, Group 
+work 
+4 hr 
+MVP v0.1 clickable 
+prototype |  
+Checkpoint 1 
+(problem, concept, 
+digital prototype) 
+PHASE 2: BUILDING (Weeks 4–7) 
+4 
+AI Agents 
+Workshop 
+Introduction to 
+AI agents. 
+Integration 
+strategy for 
+startup projects.  
+Tech stack 
+decision 
+A B D 
+AI 
+Agents 
+platform 
+Stefan Seedorf, 
+Bogdan 
+Marculescu, 
+Mentors, Group 
+work 
+4 hr 
+Agent integration 
+plan 
+Tech stack decision 
+Start building  
+Draft 1 (digital 
+prototype report) 
+5 
+Authentication & 
+First Feature 
+A B D 
+Platform 
+of 
+choice 
+(Softr, 
+Lovable, 
+Base44, 
+or other) 
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+Mentors, Group 
+work 
+4 hr 
+Working login + 
+Feature 1   
+ 
+6 
+Integration & 
+Second Feature 
+A B C 
+D E 
+Platform 
+of 
+choice, 
+AI tools 
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+Mentors, Group 
+work 
+4 hr 
+Working app with 2 
+features 
+ 
+7 
+Advanced 
+Features  
+ 
+CHECKPOINT 2  
+A B C 
+D 
+Platform 
+of 
+choice, 
+AI, 
+Kanban 
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+Mentors, Group 
+work 
+4 hr 
+Working app with 3 
+features  
+Checkpoint 2 (app, 
+Kanban evidence, 
+tech stack choice, 
+reflection) 
+PHASE 3: PROMOTING & TESTING (Weeks 8–9) 
+8 
+Hackathon — 
+Promo Pack 
+C D 
+Canva, 
+Visily, 
+platform 
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+4 hr 
+Promo pack: 1-min 
+video + visuals + 
+social media post + 
+
+===== PAGE 7 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+of 
+choice 
+Mentors, Group 
+work 
+landing page. 
+Promotion starts. 
+9 
+Testing, Quality 
+& Promotion 
+ 
+CHECKPOINT 3 
+C D 
+Testing 
+tools, 
+analytics 
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+Mentors, Group 
+work 
+4 hr 
+Usability testing 
+report (10+ testers) 
++ fixes + promotion 
+evidence | 
+Checkpoint 3 
+submission 
+Mentor review. 
+Draft 2 (Promotion 
+report, User testing 
+report) 
+PHASE 4: DEMO DAY (Week 10) 
+10 
+DEMO DAY  
+A B C 
+D E 
+All 
+Bogdan 
+Marculescu, 
+Stefan Seedorf, 
+Mentors, 
+School 
+support/judges 
+4 hr 
+Live demo + pitch 
+deck + professional 
+video (with 
+subtitles) + live 
+recording.  
+Overall reflection. 
+End 
+of 
+Week
+11 
+Submission 
+deadline for all 
+documentation 
+ 
+ 
+ 
+ 
+ 
+Note: Week 4 may be a university break depending on the academic calendar. The schedule above 
+assumes continuous delivery; the module leader will confirm exact week numbering at the start of 
+semester. 
+9. Recommended Tools 
+Students are free to choose the digital tools that best serve their project. The following are 
+recommended and supported by the module: 
+Category 
+Tools 
+UX / Wireframing 
+Visily, Figma, Pixso 
+No-code / Low-code App 
+Development 
+Softr, and any other platform of your choice (e.g., Lovable, Base44, 
+custom coding, or emerging tools). As long as they can complete all 
+the requirements, the teams are free to choose their tech stack. 
+Design & Visuals 
+Canva or any design tool of preference 
+AI & Smart Features 
+DeepSeek or any AI; local API for AI Agents (to be confirmed) 
+
+===== PAGE 8 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+Project Management 
+Every student is strongly advised to fulfill the tracking requirements by 
+maintaining logs and proof. 
+10. Progress Logging 
+Each week, to optimize workflow efficiency, students are strongly encouraged to log their progress 
+consistently, every week.  
+11. Contact Details 
+Module Leaders 
+Name 
+Email 
+Office / Hours 
+Dr. Bogdan 
+Marculescu 
+Bogdan.Marculescu@xjtlu.edu.cn 
+E-5070; by appointment (schedule 
+via email) 
+Dr. Stefan 
+Seedorf 
+Stefan.Seedorf@xjtlu.edu.cn 
+E-5020; by appointment (schedule 
+via email) 
+EEH Mentors 
+Mentors are experienced faculty responsible for guiding your team's thinking, connecting you to 
+specialists and resources, and challenging you to reach higher standards. Mentor assignments and 
+contact details will be communicated at the beginning of the semester. 
+Note: Mentor slots may change each semester. Updated contact information will be provided via the 
+Learning Mall Online. 
+Each Mentor is assigned to a specific number of groups and is responsible for delivering high-quality 
+mentoring, facilitating deep thinking, connecting teams to relevant expertise, and pushing teams 
+beyond surface-level solutions. Please note, administrative tasks are handled by TAs and not the 
+Mentors. Your conversation with the Mentors should be exclusively about your project work and 
+direction, and they will provide guidance related to your projects (do not ask them where to submit or 
+any such basic questions).  
+Teaching Assistants (TAs) 
+TAs play a key coordination and accountability role in ENT207TC. Each TA is assigned to a number 
+of groups and is responsible for all the box ticking administrative tasks: 
+• 
+Monitoring their assigned student groups. 
+• 
+Reviewing weekly automated progress indicators to immediately flag operational delays or 
+unequal workload balances. 
+• 
+Conducting regular check-ins with assigned groups. 
+• 
+Verifying the authenticity and completion of milestone deliverables and active workflow 
+histories uploaded.  
+• 
+Supporting the administration of checkpoints. 
+• 
+Escalating concerns to mentors and module leaders promptly. 
+TA assignments and contact details will be shared at the start of the semester via Learning Mall 
+Online. 
+SECTION B: WHAT YOU CAN EXPECT FROM THE MODULE 
+
+===== PAGE 9 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+12. Educational Philosophy 
+Think of this lab not as a classroom, but as a startup studio. You are not just students, you are 
+designers, founders, analysts, and creators. Let's build things that matter, and learn what we do not 
+know yet, together. 
+Over the semester, you will experience the full digital startup cycle: from identifying a meaningful 
+problem, brainstorming creative solutions, building prototypes, promoting your app, gathering user 
+feedback, and pitching your product at Demo Day. 
+We use three interconnected learning philosophies: 
+• 
+Constructionist learning: by building real prototypes, you learn by doing. 
+• 
+Facilitative teaching: we act as mentors, sounding boards, and co-explorers more than 
+traditional lecturers. 
+• 
+Heutagogy (self-directed learning): you take ownership of your learning path, choosing 
+technologies and directions that suit your interests and goals. 
+ 
+13. What Will You Do? 
+1. From idea to solution: you will identify problems worth solving, explore the problem-solution 
+space, and frame issues that inspire innovation. 
+2. Sketch the solution: you will brainstorm multiple approaches and sketch low-fidelity 
+wireframes showing your core features. 
+3. Building a digital version: you will transform sketches into interactive digital prototypes using 
+design thinking and UX principles. 
+4. Create an app:  you will use platforms and code of your choice to build a minimum viable 
+product (MVP) app. 
+5. Work with AI agents: you will explore how intelligent agents can augment your startup product 
+and automate specific workflows. 
+6. Promo & launch campaign: you will create a promotional package including a 1-minute video, 
+landing page, and visuals, and you will use them to find real users to test your app. 
+7. User testing and feedback: you will test with real users, collect structured feedback, and iterate. 
+8. Demo Day: you will showcase your product in a public pitch event and submit a professional-
+quality video. 
+ 
+14. Assessment Components — Details 
+The Weekly Process component evaluates how the team worked throughout the semester, while the 
+Final Deliverables evaluates the quality and completeness of the final project outputs and supporting 
+evidence. Think of the Process component as assessing how your team built the project, and the Final 
+Deliverables as assessing what your team ultimately produced. The Demo Day will be the 
+demonstration of your work.  
+Weekly Process (40%) 
+Team progress is evaluated through weekly milestone deliverables and consistent workflow tracking.  
+To establish a transparent individual contribution trail, students are highly encouraged to carefully 
+document their weekly individual contributions. 
+Each group should submit 2 Drafts: Draft 1 (Week 4) and Draft 2 (Week 9).  
+Draft 1 is submitted in Week 4 and covers the digital prototype report, documenting the problem, 
+solution concept, chosen features.  
+
+===== PAGE 10 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+Draft 2 is submitted in Week 9 and covers tech stack choice, the promotion report and user testing 
+report.  
+Both drafts form part of the Final Deliverables and must be submitted in the LM. Submitting on time 
+matters, these drafts are the evidence trail that supports your final grade. More specific, Draft 1 
+becomes the basis for your final Digital Prototype Report, and Draft 2 becomes the basis for your final 
+Promotion Report and User Testing Report; you are refining the same documents, not producing new 
+ones. 
+Each group will maintain a Kanban board throughout the semester. We will verify the board activity. 
+Kanban is not just a tool; it is evidence of how your team organizes and executes work. 
+Final Deliverables (30%) 
+The Final Deliverables is a curated record of your team's project journey, submitted at the end of the 
+semester. It must include: 
+• 
+Checkpoint 1 Report (End of Week 3): problem choice, problem validation, solution concept, 
+digital prototype (the digital prototype and set of chosen features). 
+• 
+Checkpoint 2 Report (End of Week 7): tech stack rationale, working app with 3 features, 
+Kanban evidence, building reflection. 
+• 
+Checkpoint 3 Report (End of Week 9): promotion evidence (channels, reach, engagement), 
+user testing data (10+ testers), bug fixes implemented, launch readiness self-assessment. 
+• 
+Digital Prototype Report (End of Week 10): final product documentation — architecture 
+overview, feature set, tech stack, access instructions for assessors, known limitations. 
+• 
+Promotion Report (End of Week 10): channels used (with dates), materials deployed (video 
+link, landing page), reach and engagement metrics, testers onboarded, what worked / what did 
+not, timestamped evidence screenshots. 
+• 
+User Testing Report (End of Week 10): structured report on 10+ real users — testing 
+methodology, key findings, user quotes or data, changes implemented based on feedback. 
+Demo Day (20%) 
+Demo Day is the culmination of your startup journey. Each team will: 
+• 
+Deliver a live demonstration and Q&A in front of peers, mentors, and invited guests. 
+• 
+Submit the live recording of Demo Day. The team is responsible for recording during Demo 
+Day. 
+• 
+Submit a professionally edited demo video, created and edited by your team, with subtitles and 
+production quality. This should represent your best pitch to the world. 
+• 
+Your demonstration of your working digital prototype must satisfy the interactive simulation 
+requirement. As part of the live demonstration, walk through a realistic user scenario 
+simulation within your app — the inputs, the interaction, the resulting output — and explain 
+how that insight would inform a real product, market, or operational decision for your venture. 
+Journey Reflection (10%) 
+A group reflection (minimum 900 meaningful words) covering the module's format, support received, 
+tools used, challenges faced, and suggestions for improvement. One upload per group.  
+
+===== PAGE 11 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+Final Review  
+All members of a group normally receive the same group mark for each component. Where 
+accumulated process evidence such as Kanban history, weekly milestone submissions, drafts, 
+checkpoints, TA check-in notes, and Mentor observations clearly show that a student's contribution 
+was substantially different from their teammates', Module Leaders and EEH Mentors may adjust that 
+student's individual mark relative to the group mark. Any such adjustment is capped at a maximum of 
+10 percentage points, and is decided by Module Leaders and/or EEH Mentors based on process 
+evidence. 
+15. External Mentors 
+Each team is expected to engage with at least one external mentor during the semester. External 
+mentors can be XEC faculty, industry practitioners, alumni, or domain experts who can provide real-
+world perspective on your project. 
+The External Mentor Feedback Form (Form 3, Section D) must be completed and submitted by each 
+group to document at least one external mentor per semester. 
+ 
+SECTION C: ADDITIONAL INFORMATION 
+16. Student Feedback 
+The University is keen to elicit student feedback to make improvements for each module in every 
+session. The preferred approach is through the online Student Module Feedback Questionnaire. 
+Students will be invited to complete this at the end of the semester. 
+In addition, ENT207TC module leaders will conduct an additional feedback process, and students will 
+be asked to anonymously complete a brief mid-semester and end-of-semester check.  
+17. Academic Integrity 
+Offences of plagiarism, cheating, or fabrication can result in attendance at a University-level 
+committee and significant penalties. Please read the Academic Integrity Policy available on e-Bridge 
+in the Assessment and Examination section. 
+The use of AI tools is permitted and encouraged in this module as part of the authentic learning 
+experience. However, all AI-assisted work must be disclosed, and the intellectual contribution of your 
+team must be evident. Using AI to complete work without understanding or contributing to it is treated 
+as a form of academic dishonesty. 
+18. Submission Rules and Late Penalties 
+All submission rules and late submission penalties are governed by the University's Code of Practice 
+for Assessment, available on e-Bridge. Late submissions will incur a 5% deduction per day, up to five 
+days. Submissions beyond five days are not accepted. 
+19. Mitigating Circumstances 
+The University can take into account mitigating circumstances such as illness or significant personal 
+events. Students must keep their Academic Advisor or Development Advisor informed. Follow the 
+procedures in the Mitigating Circumstances Policy on e-Bridge. 
+20. Learning Mall Online 
+All module resources, submission links, TA contact details, and announcements are available on 
+Learning Mall Online: https://sso.xjtlu.edu.cn/login 
+ 
+ 
+
+===== PAGE 12 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+SECTION D: FORMS 
+Form 1 — Weekly Log [one per group, every week] 
+Each group must maintain this logbook throughout the module. It documents project progress, 
+challenges, support sought, and outcomes. Submitted weekly via the milestone platform. 
+ 
+Team Name: 
+ 
+Session and Group 
+name/table: 
+ 
+Members (Names & 
+IDs): 
+ 
+ 
+ 
+ 
+Week #: 
+ 
+Kanban board status 
+(attach screenshot): 
+ 
+Proof uploaded (Y/N): 
+ 
+ 
+1. Summary of Work Completed This Week: (Briefly describe what you worked on, features built, 
+tasks completed, agent integrations explored, etc.) 
+ 
+ 
+ 
+2. Challenges Encountered: (Technical, communication, or resource blockers.) 
+ 
+ 
+3. Help Requested and evidence (Mentor, TA, school specialist, external mentor) 
+ 
+ 
+4. Support Outcome (Was your issue solved? What was the response? What alternative did you 
+pursue?) 
+ 
+ 
+5. Individual weekly reflection (one short entry per team member) (Briefly describe a challenge, 
+setback, or interpersonal moment this week and how you responded to it.) 
+ 
+ 
+Signatures (All Team Members): ___________________________ 
+ 
+
+===== PAGE 13 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+Form 2 — TA Group Tracker 
+Used by TAs to track progress and verify evidence across assigned groups. One sheet per TA per 
+session. 
+ 
+TA Name: 
+ 
+Week # / Session: 
+ 
+ 
+Group 
+Number 
+Check-in 
+Date 
+Time 
+Spent 
+(min) 
+Kanban 
+Checked 
+Proof 
+Uploaded 
+Issues / Notes 
+ 
+ 
+ 
+Y / N 
+Y / N 
+ 
+ 
+ 
+ 
+ 
+Y / N 
+Y / N 
+ 
+ 
+ 
+ 
+ 
+Y / N 
+Y / N 
+ 
+ 
+ 
+ 
+ 
+Y / N 
+Y / N 
+ 
+ 
+ 
+ 
+ 
+Y / N 
+Y / N 
+ 
+ 
+ 
+Weekly Summary: (Bullet points on common blockers, group progress, escalations, and items to raise 
+with module leader.) 
+ 
+ 
+ 
+ 
+Flags: (students absent or not responding or with no activity) 
+- 
+- 
+- 
+ 
+ 
+
+===== PAGE 14 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+Form 3 — External Mentor Feedback Form [at least one per semester] 
+Thank you for supporting our students. Your insights help guide their development and contribute to 
+their assessment. 
+ 
+Team / Student Name(s): 
+ 
+Mentor Name: 
+ 
+Organization / School: 
+ 
+Date & Duration: 
+ 
+ 
+1. Why did the team contact you? (Context and problem presented) 
+ 
+2. What specific support or request did they make? 
+ 
+3. What guidance or support did you provide? 
+ 
+4. How did the team respond? 
+• 
+They actively engaged and asked follow-up questions 
+• 
+They acknowledged and promised to consider the feedback 
+• 
+They seemed unsure or resistant 
+• 
+No response or unclear follow-up 
+ 
+5. Any additional comments or suggestions? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank you for your time and commitment to our students. 
+ 
+ 
+ 
+
+===== PAGE 15 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+SECTION E: ACCEPTABLE FEATURES FOR PROJECTS 
+21. Feature Guidelines 
+The list below illustrates types of features that are acceptable and meaningful in ENT207TC. These are 
+here to inspire, not to restrict. What matters is that every feature directly helps solve a real problem for 
+your intended users. You are not building for practice — you are building to make a difference. 
+Navigation & Access 
+• 
+Guest access with limited functionality 
+• 
+Role-based access (admin, user, mentor, etc.) 
+• 
+Structured user flows with access-specific content 
+User Interaction Features 
+• 
+Customizable profile that influences app functionality 
+• 
+Dynamic task or goal tracker with progress logic 
+• 
+Smart calendar or reminder tied to user input or behavior 
+• 
+Gamified progress indicators (badges, levels, streaks) 
+AI & Smart Features 
+• 
+Chatbot trained on specific user needs or data 
+• 
+AI-generated suggestions that adapt over time 
+• 
+AI agents that perform tasks autonomously within your app 
+• 
+Input analysis with personalized recommendations 
+• 
+Auto-generated summaries or reflections from user content 
+Logic, Data & Feedback Systems 
+• 
+User-facing database features (filter, sort, search) 
+• 
+Real-time leaderboard or comparison system 
+• 
+Analytics dashboard that visualizes trends 
+• 
+Systems that evolve based on cumulative user activity 
+Advanced Features 
+• 
+Integrations that add real functionality (AI, finance, weather, IoT) 
+• 
+Secure and useful use of OpenAI, DeepSeek, Gemini, or similar models 
+• 
+APIs offering content, evaluation, or communication support 
+• 
+Webhooks or external automations supporting your use case 
+Features NOT Counted as Core Features 
+Feature 
+Reason 
+Login system only 
+Expected infrastructure, not a solution 
+Static content or landing page 
+No user input or interactivity 
+Contact form 
+Too generic unless purpose-specific 
+Basic calendar 
+Must be tied to user logic or insights 
+Visual polish without logic 
+Design without behavior does not count 
+ 
+
+===== PAGE 16 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+Section G: PLANNER 
+ 
+
+===== PAGE 17 =====
+ENT207TC Digital Startup Lab | Module Handbook | Academic Year 2026-2027 
+XJTLU Entrepreneur College | Entrepreneurship & Enterprise Hub 
+ 
+ 
+ 

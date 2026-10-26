@@ -1,0 +1,46 @@
+ENT207TC Week 3 — Figma then Pixso
+==================================
+
+STEP 3 · Figma
+--------------
+1. Open https://www.figma.com (or Figma Desktop)
+2. Resources / Plugins → search "Visily" → Run Visily add-on
+3. Import week3/exports/FuxiPulse.vis
+4. Edit: align frames, fix type hierarchy, consistent sidebar
+5. Frames to keep (Desktop ~1440):
+   S01 Dashboard | S02 Weak Season | S03 Research | S04 Strategy
+   S05 OTA | S06 Knowledge | S07 Feedback
+6. File → Save local copy / Export as .fig
+   → week3/exports/FuxiPulse.fig
+
+Tutorial: https://www.youtube.com/watch?v=iyrEStiTZh0
+
+STEP 4 · Pixso (Checkpoint 1 deliverable)
+-----------------------------------------
+1. Open https://pixso.net (or Pixso Desktop)
+2. Import .fig (local file import)
+3. Prototype mode — wire click-through:
+
+   S01 Dashboard
+        ├─ nav "Weak Season Analysis" → S02
+        ├─ nav "Research Agent"       → S03
+        ├─ nav "Strategy Center"      → S04
+        ├─ nav "OTA Operations"       → S05
+        ├─ nav "Knowledge Base"       → S06
+        └─ nav "Performance Feedback" → S07
+
+   S02 → primary CTA / finding card → S03 Research
+   S03 → "Generate strategy" / next → S04 Strategy
+   S04 → Approve → S05 OTA (or toast + back to S01)
+   S05 → Done / sync → S07 Feedback
+   Any screen: logo / Dashboard nav → S01
+
+4. Present / Share prototype link for Checkpoint 1
+
+Guide:  https://www.pixso.net/tips/figma-dev-mode-alternative-guide
+Video:  https://www.youtube.com/watch?v=KLZZY2F7-k0
+
+Hand-off chain
+--------------
+sketches/screenshots → Visily (.vis) → Figma (.fig) → Pixso (prototype)
+Put exports in: week3/exports/

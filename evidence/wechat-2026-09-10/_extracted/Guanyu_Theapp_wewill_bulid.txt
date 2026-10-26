@@ -1,0 +1,32 @@
+我们要做什么应用
+What Application We Will Build
+1. 核心功能与技术实现  /  1. Core Functions and Technical Implementation
+2. 应用如何工作  /  2. How the Application Works
+3. 数据来源  /  3. Data Sources
+1. 企业运营数据：历史订单、房价、入住率、房态、点评和运营记录。  /  1. Company operational data: historical bookings, room prices, occupancy rates, room status, guest reviews, and operational records.
+2. 市场数据：节假日、旅游活动、天气、景区信息、竞争价格和市场趋势。  /  2. Market data: holidays, tourism events, weather, attraction information, competitor pricing, and market trends.
+3. 行业知识：合作方已有的运营规则、调价经验和服务标准。  /  3. Industry knowledge: the partner’s existing operating rules, pricing experience, and service standards.
+4. 模拟数据：在真实数据暂时无法取得时，用相同字段结构的数据完成开发和早期测试。  /  4. Simulated data: when real data is temporarily unavailable, data with the same field structure will be used for development and early-stage testing.
+真实数据能够提供到什么程度，需要进一步与合作方确认。  /  The scope of real data that can be provided still needs to be confirmed with the project partner.
+4. 用户测试  /  4. User Testing
+计划邀请至少 10 名与民宿运营直接相关的人员进行测试，重点验证：  /  We plan to recruit at least 10 participants directly involved in homestay operations, focusing on the following validation points:
+1. 是否减少人工操作时间；  /  1. Whether the system reduces manual operating time;
+2. 运营建议是否具有实际价值；  /  2. Whether the operational recommendations provide practical value;
+3. 定价建议是否可信、理由是否清楚；  /  3. Whether pricing recommendations are credible and clearly explained;
+4. 系统操作是否简单；  /  4. Whether the system is easy to use;
+5. 哪些任务可以自动执行，哪些任务必须保留人工确认。  /  5. Which tasks can be automated and which must retain human confirmation.
+
+[TABLE 1]
+我们计划开发一款 AI 民宿运营平台，把民宿日常运营中的重复工作、市场分析和经验型决策集中到一个系统中。 核心目标：减少人工重复操作，提高决策效率，并把运营经验转化为可复用的规则和知识。 | We plan to develop an AI-powered homestay operations platform that brings repetitive operational tasks, market analysis, and experience-based decision-making into one system. Core goal: reduce repetitive manual work, improve decision-making efficiency, and turn operational experience into reusable rules and knowledge.
+
+[TABLE 2]
+中文 | English
+1. 运营自动化 处理订单确认、房态更新、客户通知、运营提醒等高频任务。 技术实现：FastAPI 后端 + PostgreSQL 数据库 + Agent Workflow。工作流读取订单和房态数据，按预设规则触发任务并记录处理结果。 | 1. Operations Automation Handle high-frequency tasks such as order confirmation, room-status updates, guest notifications, and operational reminders. Technical implementation: FastAPI backend + PostgreSQL database + Agent Workflow. The workflow reads booking and room-status data, triggers tasks based on predefined rules, and records the results.
+2. 客服与点评管理 根据民宿信息回答常见问题、生成入住指引，并辅助生成点评回复。 技术实现：LLM API + RAG 知识库。知识库保存入住规则、交通信息、服务标准和历史回复；模型基于这些内容生成回答，重要内容由运营人员确认后发送。 | 2. Guest Service and Review Management Answer common questions based on property information, generate check-in guidance, and assist with review responses. Technical implementation: LLM API + RAG knowledge base. The knowledge base stores check-in rules, transport information, service standards, and historical responses; the model generates replies from this content, with important messages confirmed by staff before sending.
+3. 动态定价 结合入住率、历史订单、日期、节假日、当地活动和竞争价格，生成房价调整建议。 技术实现：Python + Pandas + 预测模型 + Pricing Agent。先整理与分析需求数据，再结合合作方调价规则输出价格建议及原因。 | 3. Dynamic Pricing Generate room-price adjustment recommendations using occupancy, historical bookings, dates, holidays, local events, and competitor prices. Technical implementation: Python + Pandas + forecasting model + Pricing Agent. The system first processes and analyzes demand data, then combines it with the partner’s pricing rules to produce price recommendations and explanations.
+4. 市场研究与决策支持 收集旅游趋势、节假日、活动、市场需求和竞争信息，整理成可直接使用的运营结论。 技术实现：Research Agent + 数据接口/API + LLM。系统定期获取外部信息，完成整理、比较和总结，输出市场变化、风险和建议。 | 4. Market Research and Decision Support Collect tourism trends, holidays, events, market demand, and competitor information, and convert them into operational conclusions that can be used directly. Technical implementation: Research Agent + data interfaces/APIs + LLM. The system periodically retrieves external information, organizes, compares, and summarizes it, then outputs market changes, risks, and recommendations.
+5. 行业知识库 保存合作方已有的调价经验、淡旺季判断、OTA运营规则、客户服务标准和异常情况处理方法。 技术实现：RAG + Vector Database。将企业经验整理成结构化文档并建立向量索引，使不同 Agent 在分析和决策时能够调用同一套行业知识。 | 5. Industry Knowledge Base Store the partner’s pricing experience, peak/off-season judgment, OTA operating rules, customer-service standards, and exception-handling methods. Technical implementation: RAG + Vector Database. Operational experience is organized into structured documents and indexed as vectors so that different agents can access the same industry knowledge during analysis and decision-making.
+
+[TABLE 3]
+运营数据 + 市场数据 + 行业经验  →  数据整理  →  Agent 分析  →  生成建议 / 执行任务  →  人工确认  →  记录结果  →  持续优化
+Operational Data + Market Data + Industry Knowledge  →  Data Processing  →  Agent Analysis  →  Recommendations / Task Execution  →  Human Confirmation  →  Result Recording  →  Continuous Improvement

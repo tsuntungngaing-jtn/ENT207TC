@@ -1,0 +1,56 @@
+Proposal 修改指导和建议
+现在的信息源：1. Uno项目介绍。2. EEH—三丁民宿。
+我的建议是：多方信息收集并完成整合，团队自我分析后判断方向目标，才能将问题的Scope简化缩小
+The Problem
+总问题
+民宿运营成本高、效率低、规模化能力弱。
+根本原因是大量日常运营仍依赖人工重复执行，关键决策又高度依赖个人经验。
+具体问题
+重复运营工作占用大量人力。
+订单确认、房态更新、客户通知等高频任务仍需要人工反复处理。
+客服沟通效率低。
+客户咨询、入住指引和常见问题需要运营人员持续人工回复。
+点评管理耗时且不稳定。
+运营人员需要逐条阅读并回复点评，耗费时间，且不同人员的回复质量和风格难以统一。
+动态定价高度依赖个人经验。
+运营人员难以及时综合入住率、市场需求、节假日和竞争价格进行持续调价。
+市场信息分散，决策效率低。
+旅游趋势、订单数据、市场需求和竞争信息分布在不同来源，运营人员难以快速整合并形成判断。
+运营经验难以沉淀和复制。
+关键经营知识主要掌握在有经验的员工手中，难以转化为统一、标准化的运营规则。
+人工模式限制规模化扩张。
+随着管理民宿数量增加，公司需要同步增加运营人员，导致管理成本和复杂度持续上升。
+Overall Problem
+Homestay operations remain costly, inefficient, and difficult to scale.
+The main reason is that many daily operational tasks still rely heavily on repetitive manual work, while key decisions depend strongly on individual experience.
+Specific Problems
+Repetitive operational tasks consume significant human resources.
+	High-frequency tasks such as order confirmation, room-status updates, and guest notifications still require repeated manual handling.
+Guest communication is inefficient.
+	Operational staff must repeatedly respond to guest inquiries, provide check-in instructions, and answer common questions.
+Review management is time-consuming and inconsistent.
+	Staff need to read and respond to guest reviews individually, which takes considerable time and can lead to inconsistent response 	quality and tone.
+Dynamic pricing relies heavily on individual experience.
+	Operators find it difficult to continuously adjust prices based on occupancy rates, market demand, holidays, and competitor pricing in a 	timely manner.
+Market information is fragmented, reducing decision-making efficiency.
+	Tourism trends, booking data, market demand, and competitor information are scattered across different sources, making it difficult for 	operators to quickly integrate information and make informed decisions.
+Operational knowledge is difficult to retain and replicate.
+	Key know-how is often held by experienced staff and is difficult to convert into standardized and reusable operational rules.
+The current labor-intensive model limits scalability.
+	As the number of managed homestays increases, the company must also increase its operational staff, leading to higher management 	costs and greater operational complexity.
+Who will use it
+以目前的项目介绍（From Uno），
+（在周日下午的会议之前）我更愿意将app的Users定义为：
+专业民宿运营公司的运营经理、OTA运营人员、店长及一线运营人员。
+Professional homestay operation managers, OTA operators, property managers and frontline operational staff.
+但是我们是在为我们为民宿运营管理公司中的一线运营人员解决高频、重复、信息密集型运营工作的效率问题。
+修改理由：
+第一版的“中小型民宿业主以及物业管理者”不错，但过于宽泛，因为这个定义可能是在默认：民宿老板（民宿投资者）自己在管理民宿
+但是我们现在的合作方是以及B2B的民宿运营服务公司，他是在帮助很多民宿老板运营管理民宿
+
+[TABLE 1]
+角色 | 对象 | 含义
+合作方 | 腾冲心灵福禧楼酒店管理有限公司 | 给予真实业务场景、问题、行业经验、测试资源的企业
+核心用户 | 该公司的民宿运营人员、OTA运营人员、店长、运营经理。 | 真正每天打开我们 App、使用 AI 功能的人
+服务对象 | 该家公司代运营的民宿老板、投资人 | 购买该公司运营管理服务的人
+最终受益者 | 民宿老板、运营公司、住客 | 购买该公司运营管理服务的

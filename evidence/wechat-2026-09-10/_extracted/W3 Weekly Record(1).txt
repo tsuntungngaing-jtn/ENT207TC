@@ -1,0 +1,15 @@
+W3 Weekly Record
+Name:Haoming.Zeng    Week: W3 (2026.09.22 – 09.26)
+1. Weekly Work Summary
+This week I focused on transferring UI assets across design tools and generating an AI design prompt. I imported four product interface screenshots into Visily to convert and export the screens, then brought the exported file into Figma for secondary processing, and finally loaded the Figma file into Pixso to produce an AI design prompt based on the full set of UI screens.
+The four screenshots cover all core pages of the system: the operations dashboard, Research Agent, Strategy Center, OTA operations, Knowledge Base, and the feedback/effect module, fully covering the left-side navigation and every business function panel.
+2. Challenges Encountered
+Cross-tool file compatibility: transferring files between Visily, Figma, and Pixso caused some layers and component structures to get misaligned, requiring manual layer-by-layer verification and correction.
+Dense page content: the screenshots contain large data dashboards, charts, pop-ups, and state components, making it easy to miss some business modules when extracting key details for the prompt.
+Prompt balance: it was difficult to keep the prompt concise yet complete—reproducing the visual UI style while preserving the underlying business logic.
+3. Help Sought & Evidence
+I asked teammates for tips on exporting from Visily and adapting files between Figma and Pixso, and referred to internal group documents to find methods for handling layer-misalignment during cross-tool transfer.
+Evidence: the Visily export file, the Figma project file, and the Pixso project file (the four attached screenshots are the system UI screens used in this project).
+4. Outcomes of the Help
+The tips helped me preprocess the assets—cropping out unwanted layers before import—which greatly reduced component misalignment. I completed the cross-tool transfer of all four screens and successfully output a complete, usable design prompt in Pixso. The prompt fully covers the sidebar navigation, each business panel, data metric cards, button states, and the color scheme, meeting the requirements for generating the UI with AI.
+Proof:

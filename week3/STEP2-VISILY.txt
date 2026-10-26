@@ -1,0 +1,29 @@
+ENT207TC Week 3 — Visily screen list (upload sketches here)
+===========================================================
+
+Use images in: week3/visily-input/
+(Or open local app npm run dev and screenshot each route.)
+
+Screen ID | Name                    | Source image / route
+----------+-------------------------+------------------------------------------
+S01       | Dashboard               | fuxipulse-01-dashboard.png  → /
+S02       | Weak Season Analysis    | fuxipulse-02-predict-diagnose.png → /weak-season
+S03       | Research Agent          | fuxipulse-03-research-agent.png → /research
+S04       | Strategy Center         | fuxipulse-04-strategy-approval.png → /strategy
+S05       | OTA Operations          | fuxipulse-06-ota.png → /ota
+S06       | Knowledge Base          | fuxipulse-07-knowledge.png → /knowledge
+S07       | Performance Feedback    | fuxipulse-05-feedback.png → /feedback
+
+Visily steps
+------------
+1. https://www.visily.ai  — group account login
+2. New project: FuxiPulse
+3. Upload each PNG → Convert / Generate digital screens
+4. Clean labels; keep navy #0B1F3A + teal #0D9488
+5. File → Export → .vis  → save to week3/exports/FuxiPulse.vis
+
+Tutorials
+---------
+Visily:           https://www.youtube.com/watch?v=9K97iPJTlSA
+Visily → Figma:   https://www.youtube.com/shorts/d1fYjMJ_7yk
+                  https://www.youtube.com/watch?v=sBzrfXkixvA

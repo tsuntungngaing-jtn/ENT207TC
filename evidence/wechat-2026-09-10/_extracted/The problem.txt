@@ -1,0 +1,25 @@
+The problem
+Homestay operators often struggle during weak seasons because they lack timely insights into demand changes, market conditions, and competitive dynamics. Although large amounts of operational information exist, fragmented data and limited analytical capability prevent managers from making effective decisions.
+Who will use it
+Homestay owners, property managers, and operation teams within Tengchong Xinling Fuxi Tower Hotel Management Co., Ltd.
+What app you will build
+FuxiPulse is an AI-agent decision-support platform that helps homestay operators predict weak-season risks, understand the reasons behind demand changes, and generate actionable strategies. It combines forecasting models, research agents, and strategy agents to provide explainable recommendations while keeping human managers in control.
+Project Communication Update and Consultation Questions
+During Wednesday’s class, we successfully established contact with the project partner. Afterwards, we also reached out to the university lecturer from EEH who is responsible for coordinating this project. We have arranged a meeting on 20th September to further discuss the project requirements, available resources, and potential research directions.
+During the meeting, we would like to clarify the following questions:
+1. Data availability from current booking platforms
+Which online booking platforms are currently used by the homestays managed by the company?
+Do these platforms provide customer background information or behavioral insights for property owners?
+For example, can operators access information such as:
+the number of times a guest has visited a specific destination;
+guests’ historical accommodation preferences;
+customers’ typical accommodation price ranges or market segments;
+travel purposes or customer profiles (if legally available)?
+Understanding the availability of customer behavior data will help us design a more accurate demand prediction and recommendation system.
+2. Availability of broader tourism and market data
+Do accommodation platforms provide broader industry-level data, such as:
+major travel destinations preferred by domestic Chinese tourists during different periods;
+tourist flow patterns in Tengchong;
+real-time or historical changes in visitor movement trends between different regions;
+destination popularity changes caused by holidays, events, or seasonal factors?
+Access to these datasets would help us build a research agent capable of analyzing weak-season patterns and generating more reliable operational strategies for homestay managers.

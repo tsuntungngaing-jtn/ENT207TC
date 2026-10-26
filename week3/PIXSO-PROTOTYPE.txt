@@ -1,0 +1,61 @@
+PIXSO · FuxiPulse prototype (Checkpoint 1) — follow exactly
+==========================================================
+
+Confirmed share / design URL (team):
+https://pixso.net/app/design/np0Pd6gaAjO2V_lvodWLOw?page-id=0%3A1
+
+A. Confirm import
+-----------------
+- All frames visible on canvas (Dashboard, Weak Season, Research, Strategy, OTA, …)
+- Rename frames if still Untitled: 01–07 as below
+
+B. Switch mode
+--------------
+Top bar: click PROTOTYPE (原型) — not Design only
+
+C. Wire these links (On Click → Navigate to)
+-------------------------------------------
+Do each: select the HOTSPOT layer (nav item / button) → drag blue + node
+OR right panel Interaction → + → On click → Navigate to → pick frame
+
+Flow (minimum for Checkpoint):
+
+01 Dashboard
+  · sidebar "Weak Season Analysis"  → 02 Weak Season
+  · sidebar "Research Agent"        → 03 Research
+  · sidebar "Strategy Center"       → 04 Strategy
+  · sidebar "OTA Operations"        → 05 OTA
+  · sidebar "Knowledge Base"        → 06 Knowledge   (if exists)
+  · sidebar "Performance Feedback"  → 07 Feedback    (if exists)
+
+02 Weak Season
+  · primary CTA / "Open research" / top finding card → 03 Research
+  · sidebar Dashboard → 01
+
+03 Research
+  · "Generate strategy" / Continue / next CTA → 04 Strategy
+  · sidebar Dashboard → 01
+
+04 Strategy
+  · Approve button → 05 OTA  (or → 01 Dashboard)
+  · Reject → stay or → 01
+  · sidebar Dashboard → 01
+
+05 OTA
+  · Done / Sync / Monitor → 07 Feedback (or → 01)
+  · sidebar Dashboard → 01
+
+06 Knowledge → sidebar Dashboard → 01
+07 Feedback  → sidebar Dashboard → 01
+
+Every other screen: logo / "FuxiPulse" / Dashboard nav → 01
+
+D. Preview
+----------
+Click Play / Present (右上角 ▶)
+Click through: 01 → 02 → 03 → 04 → 05 → (07) → back to 01
+
+E. Share for Checkpoint 1
+-------------------------
+Share → Copy link (anyone with link can view/prototype)
+Paste link into group slides / submission notes

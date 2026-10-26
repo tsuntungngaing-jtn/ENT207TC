@@ -1,0 +1,4 @@
+Question: 
+Small and scattered homestay owners lack access to integrated local market data and industry best practices, resulting in poor pricing decisions and low conversion rates.
+Answer:
+Build a mobile digital app embedded with a knowledge-graph AI agent, which automatically collects local tourism policies, market trend data and high-performing homestay benchmark cases, then generates personalised operational and pricing decision reports for small homestay owners.
